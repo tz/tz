@@ -28,6 +28,9 @@ div.intro > div.intro-img > img {
   max-width: 20em;
   margin: 1em;
 }
+div.text {
+  max-width: 40em;
+}
 div.media > h4 {
   padding-left: 2em;
   font-size: larger;
